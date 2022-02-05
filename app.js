@@ -10,6 +10,7 @@ const cover = document.getElementById("cover");
 //Zenék címei
 const songs = ["hey", "summer", "ukulele", "river"];
 
+console.log("Oldal betöltődött")
 //Kiinduló zene indexe
 let songIndex = 2;
 
